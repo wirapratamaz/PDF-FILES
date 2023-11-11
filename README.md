@@ -1,6 +1,7 @@
 # Pet Theory
 
 ![Pet Theory Logo](https://github.com/rosera/pettheory/blob/main/images/pet_theory_logo.png "Pet Theory")
+![Architecture]("images/rdJceyaxL3oLL7FfmPpl2b9gZu6gTewg+sJ+7Sq6E0I=.png")
 
 Welcome to the Pet Theory Quest.
 
